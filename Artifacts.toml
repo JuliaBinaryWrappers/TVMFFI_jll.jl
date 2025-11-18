@@ -1,0 +1,156 @@
+[[TVMFFI]]
+arch = "aarch64"
+git-tree-sha1 = "ee35fc361179ecdb97ee624d5570430b70db9c9b"
+os = "macos"
+
+    [[TVMFFI.download]]
+    sha256 = "cf600212ab7f3918cd9c872bb04a409796ffbe3e07372abfc0c89c438f6f5a8b"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.aarch64-apple-darwin.tar.gz"
+[[TVMFFI]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1593bc58bf0ad0a589d8e1082d8ebaa3b5d7ff33"
+libc = "glibc"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "83f408a1579f3fd796b7ceaa71d2f85eed3cf91f0a39215692ce269d429de6c5"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5c7f21183bb7c3dc8f981ccb5c5172d2963f9420"
+libc = "musl"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "408bc96f6ebbd63eef7b5baab83b9debf65158e44c0066f68cc9aba76db5ee48"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.aarch64-linux-musl-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "aarch64"
+git-tree-sha1 = "73c4da23d3603fbdc776c22a60339bc3540469f6"
+os = "freebsd"
+
+    [[TVMFFI.download]]
+    sha256 = "21740e93a95dc21de6bf53bd1ef2e1dd2f00fac50e7fa3a7e1aa7c3ca79b312e"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.aarch64-unknown-freebsd.tar.gz"
+[[TVMFFI]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ee99e5d4d003df16e56cac04294948cc3f05cdd9"
+libc = "glibc"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "2a24ecb910771ceabe53f38f0c7e54f7cdb6f95a80c052e6cf43364a5cfd35fb"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "245f58ecfc4290d3a1dcdeeab6b6d07422ae463a"
+libc = "musl"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "67103c45bc26d6df824370de5b3bf1d2a51d64761181823ac295bad539c0359c"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f29b06fef90aff80c03488e5898fa8ee9334f4f0"
+libc = "glibc"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "98a031d6b8b6bf82e44068c5409a0af07181202791412b55786b5cd9326b9b97"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4da60b77ce9f30243eb603a4d6b73a9d802fba77"
+libc = "musl"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "fab757470436cad094bf68adb45ed1d4534cbe1743ccb0f45537475b962cc13a"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "30ef27566e8732dace7e988c8fa28820f23adc05"
+libc = "glibc"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "daf8ad90b14077e4611162fcfaf52c91c456c52a364df80f5437a1cdb65eba12"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.i686-linux-gnu-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d50eb15d329729f781d64ef56bf822c8b54a3876"
+libc = "musl"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "57d2d34cd4bb604e9099b75a9809db8d81f2fa225632698c769b03ed7f3b0add"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.i686-linux-musl-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f1fe24852d948f95153c346b6f74866419da4b74"
+libc = "glibc"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "6d4cbe107104edd1178c034e8cc80c5a6b8d608981809333e4a0c19e8b9a1795"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e5a4d68549d69f181952bdcb83291e6a6ad717b"
+libc = "glibc"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "5189a8cd6565682ac8571678274a1852e7b2ea40e9a64d32647fa27ccfb290fe"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.riscv64-linux-gnu-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "x86_64"
+git-tree-sha1 = "fb50f92534f9b7fbf6ab1b2d1d123bc81eeab13c"
+os = "macos"
+
+    [[TVMFFI.download]]
+    sha256 = "90adc5f74ed5c813fb678f3530891e824e2d56bf5a2bd65bf5dd2a27c69e71c3"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.x86_64-apple-darwin.tar.gz"
+[[TVMFFI]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1e3980f428002a043597946e6dbdc0843cb1cdae"
+libc = "glibc"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "55071cf0285e135b90db71a627da657376f6a28115f83cbfad71e083d0cfe1e7"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d77c045231af6c44c6d309d06382101a0a6e80c"
+libc = "musl"
+os = "linux"
+
+    [[TVMFFI.download]]
+    sha256 = "f76646dbb301447d7db658783525cf970ee8bcd56baf3e810462c8c2811b8751"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.x86_64-linux-musl-cxx11.tar.gz"
+[[TVMFFI]]
+arch = "x86_64"
+git-tree-sha1 = "320e19227aab921fa73a86026dd1c2b0fad85fa4"
+os = "freebsd"
+
+    [[TVMFFI.download]]
+    sha256 = "3e2c1178fe42a596e87a38eff99b87449a8005dd0435ff94b7fe8571cff5413d"
+    url = "https://github.com/JuliaBinaryWrappers/TVMFFI_jll.jl/releases/download/TVMFFI-v0.1.2+0/TVMFFI.v0.1.2.x86_64-unknown-freebsd.tar.gz"
